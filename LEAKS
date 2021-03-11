@@ -1,1 +1,18 @@
 
+
+
+
+Put the line :
+
+system("leaks a.out") 
+
+to display all leaks.
+
+/////////////////////////////////////////
+
+compile with :
+
+gcc -g3 -fsanitize=adress ...
+
+to display what's wrong with your shitty code
+
