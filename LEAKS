@@ -16,3 +16,8 @@ gcc -g3 -fsanitize=address ...
 
 to display what's wrong with your shitty code
 
+
+
+transformer les mots dans vim 
+
+:%s/mot/mot/gc
